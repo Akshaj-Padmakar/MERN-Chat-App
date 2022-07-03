@@ -1,6 +1,6 @@
 # MERN Chat App
 
-## INSTRUCTIONS : 
+## Instructions : 
 
 * Intall npm in both BackEnd and FrontEnd Folder (This will be install all the dependicies).
     - Use `npm install`
